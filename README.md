@@ -1,2 +1,2 @@
-Desafios-de-Cdigo-Basico-Java-Quebec
+Desafios-de-Codigo-Basico-Java-Quebec
 
